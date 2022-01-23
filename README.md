@@ -1,10 +1,13 @@
-# app-extentions
+# Left navigation on SharePoint online modern sites.
 
 ## Summary
 
-Short summary on functionality and used technologies.
+This code focuses on showing customized navigation on the left in SharePoint online modern sites.
 
-[picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/20637763/150685727-99b07dad-b865-468a-bee2-adcfbaed1d73.png)
+
+![image](https://user-images.githubusercontent.com/20637763/150685743-220651b7-8636-4e0d-b549-22beb0096e72.png)
+
 
 ## Used SharePoint Framework Version
 
