@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://o365devsubs.sharepoint.com/sites/O365Training",
+      "customActions": {
+        "a7c3edf8-af3f-42c9-b107-1fc2cdbe1bb9": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "leftNavigation": {
+      "pageUrl": "https://o365devsubs.sharepoint.com/sites/O365Training",
+      "customActions": {
+        "a7c3edf8-af3f-42c9-b107-1fc2cdbe1bb9": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}
